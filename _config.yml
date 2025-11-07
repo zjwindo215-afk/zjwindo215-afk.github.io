@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                       : "zh-CN" # 建议改成 "zh-CN" 或 "en-US"，取决于您主要使用哪种语言。
 site_theme                   : "default"
-title                        : "Tim's Portfolio" # 网站在浏览器标签页显示的标题
+title                        : "TTTTim's Portfolio" # 网站在浏览器标签页显示的标题
 title_separator              : "-"
 name                         : &name "Tim" # 您的名字，会在很多地方显示
 description                  : &description "Tim's academic portfolio and research updates." # 网站简介
