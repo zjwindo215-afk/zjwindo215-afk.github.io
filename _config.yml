@@ -22,10 +22,10 @@ repository                   : "zjwindo215-afk/zjwindo215-afk.github.io" # 您�
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.jpg"
-  name             : "Your Sidebar Name"
-  pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
+  avatar             : "/images/profile.jpg" # 确保路径与您上传的文件名完全一致，如果您的图片在 images/ 文件夹下。
+  name               : "Tim" # 侧边栏显示的名字
+  pronouns           : # 例如: "he/him" 或留空
+  bio                : "PhD Candidate in Computer Science | AI/ML Researcher" # 简短的个人简介
   location         : "Earth"
   employer         : "Red Brick University"
   uri              : # URL
