@@ -1,18 +1,10 @@
 # Authors
 
-Name Name:
-  name        : "Tim"
-  uri         : "https://zjwindo215-afk.github.io"
-  email       : "name@name.com"
-  bio         : "This is the first name."
-  avatar      : "profile.jpg"
-  twitter     : "name"
-  google_plus : "Name"
-
-Name2 Name2:
-  name        : "Name2 Name2"
-  email       : "name2@name2.com"
-  bio         : "I ordered what?"
-  avatar      : "bio-photo.jpg"
-  twitter     : "name2"
-  google_plus : "Name"
+Tim:
+  name             : "Tim"
+  uri              : "https://zjwindo215-afk.github.io"
+  email            : "tim.yourname@example.com" # <-- Replace with your email / 替换为您的邮箱
+  bio              : "PhD Candidate in Computer Science | AI/ML Researcher" # <-- Replace with your bio / 替换为您的简介
+  avatar           : "/images/profile.jpg" # <-- CRITICAL: The correct path / 关键：正确的路径
+  github           : "zjwindo215-afk" # <-- Your GitHub username / 您的 GitHub 用户名
+  # Delete all other social media fields below this point to keep it clean / 删除此行下方的所有其他社交媒体字段
